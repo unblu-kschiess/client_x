@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #E3E3E3;
+}
+#logo {
+    display: block;
+    margin: 0 auto;
+    width: 133px;
+    height: 76px;
+    margin-bottom: 5%;
+}
+
+#container {
+  text-align: center;
+}
